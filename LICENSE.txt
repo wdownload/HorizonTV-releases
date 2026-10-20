@@ -1,0 +1,12 @@
+Horizon TV
+Copyright (c) 2026 Oldemiro Baloi. All rights reserved.
+
+You may download, install and use the Horizon TV app published in this repository free of charge on your own
+devices. You may not modify, decompile, resell, or redistribute the app or any part of it, or publish it under
+another name, without the prior written permission of the copyright holder.
+
+The app is provided "as is", without warranty of any kind.
+
+Movie and series data and images are provided by TMDB (themoviedb.org); this product uses the TMDB API but is not
+endorsed or certified by TMDB. Streaming availability data is provided by JustWatch. Live channels are published by
+their broadcasters. Third-party names and logos belong to their owners.
